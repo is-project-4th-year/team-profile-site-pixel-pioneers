@@ -4,7 +4,7 @@
 `2025-24-2025`
 
 ## 🧑‍🤝‍🧑 Team Members
-- [Nelius Ndung'u]
+- [Nelius Ndung'u.]
 - [Dennis Wanjiku]
 - [Member 3 Name]
 - ...
