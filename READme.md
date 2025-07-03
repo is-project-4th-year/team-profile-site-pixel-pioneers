@@ -1,6 +1,6 @@
 # Group Portfolio Project
 
-Welcome to the GitHub Essentials Class Group Project!  
+Welcome to the GitHub Essentials Class Group Project! 
 In this activity, you'll collaborate in small groups to build a simple group portfolio website while learning essential Git and GitHub practices.
 
 ---
