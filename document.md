@@ -17,5 +17,8 @@
 
 git rebase is used to reapply your commits on top of another base tip.
 git squash means combining multiple commits into one.
+git merge does make the graph cluttered while rebase makes it linear.
+
+check if the commit has been pushed online
 
 
