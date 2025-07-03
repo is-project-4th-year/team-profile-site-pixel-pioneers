@@ -15,5 +15,7 @@
 - **Difference between a merge and a rebase.:** a rebase adds all the commits in the feature branch to the top of the changes in the main branch
 - **Key Learning 2:** Description...
 
+git rebase is used to reapply your commits on top of another base tip.
+git squash means combining multiple commits into one.
 
 
