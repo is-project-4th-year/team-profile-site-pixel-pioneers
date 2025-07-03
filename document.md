@@ -5,14 +5,12 @@
 
 ## 🧑‍🤝‍🧑 Team Members
 - [Nelius Ndung'u]
-- [Member 2 Name]
+- Elvis Makara
 - [Member 3 Name]
 - ...
 
 ## 📚 What We've Learned
 
-- **Key Learning 1:** Description...
+- I have learnt how to use Github as a project tool by using the project board and issues to keep track of particular project deliverables.
+- I have also learnt how to use the github GUI on VScode, given I am used to githubCLI.
 - **Key Learning 2:** Description...
-
-
-
